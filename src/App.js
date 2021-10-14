@@ -1,6 +1,6 @@
 import react from 'react';
 import './App.css';
-import Messege from './Messege'
+import Messege from './Messege.js'
 
 function App() {
   return (
