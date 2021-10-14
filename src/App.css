@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: bisque;
+}
+
+.resultado{
+  background-color: white;
+  font-weight: bolder;
+  padding: 3%;
+  width: 40vw;
+  border: dotted 3px rgb(253, 182, 95);
+  margin: auto;
+  margin-top: 180px;
+}
